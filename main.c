@@ -27,8 +27,8 @@
 #define TOK_GREATER_THAN_EQUALS 20                    // >=
 #define TOK_BAR_BAR 21                                // ||
 #define TOK_SLASH 22                                  // /
-#define TOK_EQUALS_EQUALS 23                          // ==
-#define TOK_EQUALS_EQUALS 24                          // ===
+#define TOK_EQ_EQ 23                                  // ==
+#define TOK_EQ_EQ_EQ 24                               // ===
 
 // ---------------------------------------------------------------------------------------------------------------
 
